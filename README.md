@@ -6,7 +6,9 @@
 
 
 
-Purem Oda Online Shopping App - Simple web layout with CSS styling
+Purem Oda Online Shopping App
+
+----Simple web layout with CSS styling----
 
 
 

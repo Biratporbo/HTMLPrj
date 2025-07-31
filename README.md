@@ -1,3 +1,4 @@
+# HTMLPrj
 
 
 
@@ -151,8 +152,6 @@ cd HTMLPrj
 
 ✅ Ready-to-Copy README.md Example
 
-
-# HTMLPrj
 
 A simple **HTML & CSS** project demonstrating basic webpage structure and styling.
 
